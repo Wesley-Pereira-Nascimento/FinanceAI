@@ -1,7 +1,3 @@
-
-
 export default function Home() {
-  return (
-      <h1>Hello world</h1>
-  );
+  return <h1 className="flex p-5 text-red-500">Hello world</h1>;
 }
